@@ -5,6 +5,6 @@ import lombok.Data;
 
 @Data
 @Entity
-public class Pizza extends Product {
-    private double size;
+public class Drink extends Product {
+    private double capacity;
 }
